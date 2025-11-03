@@ -28,6 +28,7 @@ Proyecto de demostración de CI/CD con GitHub Actions y Azure DevOps Boards.
 - Sistema de validación de pedidos
 - Verificación de disponibilidad de productos
 - Control de stock en tiempo real
+- (Issue 7) - Desarrollar Módulo de Autenticación Completo
 
 ## Documentación
 
