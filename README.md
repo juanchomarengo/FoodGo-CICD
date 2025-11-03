@@ -23,6 +23,12 @@ Proyecto de demostración de CI/CD con GitHub Actions y Azure DevOps Boards.
 5. GitHub Actions ejecuta pipeline automáticamente
 6. Work Item se actualiza a "Done"
 
+## Funcionalidades Implementadas
+
+- Sistema de validación de pedidos
+- Verificación de disponibilidad de productos
+- Control de stock en tiempo real
+
 ## Documentación
 
 Ver `GUIA_DEMO.md` para instrucciones completas de configuración y presentación.
