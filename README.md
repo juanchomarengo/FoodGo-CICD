@@ -28,6 +28,8 @@ Proyecto de demostración de CI/CD con GitHub Actions y Azure DevOps Boards.
 - Sistema de validación de pedidos
 - Verificación de disponibilidad de productos
 - Control de stock en tiempo real
+- Pipeline CI/CD completamente funcional
+- Integración automática GitHub-Azure DevOps
 
 ## Documentación
 
